@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajmaln I m full stack developer with sound knowledge in react
+- 👋 Hi, I’m @ajmaln I m full stack developer with specailzation in ReactJS
 - 👀 I’m interested in Coding, Networks, Linux
 
 
